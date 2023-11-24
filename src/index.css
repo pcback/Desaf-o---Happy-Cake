@@ -1,0 +1,23 @@
+.pastel {
+  float: right;
+  margin-left: 10em;
+}
+
+.cake1 {
+  font-size: 100px;
+  color: red;
+}
+.div1 {
+  border-radius: 10%;
+  padding: 2em;
+  margin-top: 3em;
+  border: 1px solid black;
+  box-shadow: 10px 10px 5px black;
+}
+
+.img1 {
+  padding: 1em;
+  width: 30em;
+  height: 30em;
+  box-shadow: 10px 10px 5px blue;
+}
